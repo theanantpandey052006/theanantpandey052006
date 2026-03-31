@@ -1,25 +1,27 @@
-Hi, I'm Anant Pandey 👋
-🎓 B.Tech Computer Science Student
-🏫 Vellore Institute of Technology (VIT)
-📅 2025 – 2029
-📍 India
-
-👩‍💻 About Me
+## Hi, I'm Anant Pandey 👋
+🎓 B.Tech Computer Science Student<br>
+🏫 Vellore Institute of Technology (VIT)<br>
+📅 2025 – 2029<br>
+📍 India<br>
+<br>
+# 👩‍💻 About Me<br>
 I am a first-year B.Tech Computer Science student at Vellore Institute of Technology. I am passionate about learning programming, exploring new technologies, and building real-world projects. I am currently developing my skills in Python, problem-solving, and software development.
 
-🚀 What I'm Learning
-Python Programming
-Problem Solving
-Data Structures (Beginner)
-Artificial Intelligence (Basics)
-Machine Learning (Basics)
-🛠️ Skills
+# 🚀 What I'm Learning<br>
+Python Programming<br>
+Problem Solving<br>
+Data Structures (Beginner)<br>
+Artificial Intelligence (Basics)<br>
+Machine Learning (Basics)<br>
+
+# 🛠️ Skills<br>
 Python (Beginner)
 Communication Skills
 Teamwork
 Problem Solving
-Basic Programming Knowledge
-🎯 Goals
+Basic Programming Knowledge<br>
+
+# 🎯 Goals<br>
 Build real-world projects
 Improve coding skills
 Learn AI and Machine Learning
